@@ -1,0 +1,42 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/Mongodb.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title":"Typescript",
+    "imageSrc": "skills/typescript.png"
+  },
+  {
+    "title":"Expressjs",
+    "imageSrc":"skills/download.png"
+  },
+  {
+    "title":"Api Integration",
+    "imageSrc":"skills/api.avif"
+  }
+]

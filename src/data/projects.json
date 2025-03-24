@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Project Matrimony-Frontend",
+    "imageSrc": "projects/project7.png",
+    "description": " Developed dynamic web pages for Matrimony projects usin React JS technology and RESTFUL API Integration",
+    "skills": ["React-js",  "Node","RESTFUL API"],
+    "source": "https://www.github.com/ashishpimple"
+  },
+  {
+    "title": "saloon-Project",
+    "imageSrc": "projects/project6.png",
+    "description": " Developed seamless integration of salon project with React JS technology Dynamic design next level userinterface",
+    "skills": ["React", "API", "Node", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com/ashishpimple"
+  },
+  {
+    "title": "HOLA9 WEB",
+    "imageSrc": "projects/project3.png",
+    "description": "This is a project based on classifieds made to learn the latest languages by building an with React technology Using API integration next level UI.",
+    "skills": ["React", "CSS", "Django"],
+    "demo": "https://www.hola9.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "HOLA9 LMS",
+    "imageSrc": "projects/project5.png",
+    "description": "This is a project made to learn the latest languages by building an app with React js technology Using API integration and next level UI.",
+    "skills": ["React","Django","TailwindCss"],
+    "demo": "https://lmshola9.netlify.app/",
+    "source": "https://www.github.com"
+
+  },
+
+  {
+
+    "title": "JobPortal",
+    "imageSrc": "projects/project2.png",
+    "description": "This is a project made to learn the latest languages by building an app with React js technology Using API integration and next level UI.",
+    "skills": ["React", "Express", "Django","API"],
+    "demo": "https://jobs.hola9.com/",
+    "source": "https://www.github.com"
+
+  },
+
+  {
+    "title": "HRMS-Login",
+    "imageSrc": "projects/project4.png",
+    "description": "Human Resource Management System login system is a crucial part of an platform ensuring secure access for employees, HR managers, and administrators.",
+    "skills": ["React", "Express", "Django","API"],
+    "demo": "https://login.hola9.com/login",
+    "source": "https://www.github.com"
+
+  }
+
+]
